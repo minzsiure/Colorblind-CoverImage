@@ -2,7 +2,7 @@
 Make use of Python’s Image Library and matrix multiplication to 1) create images for testing colorblind, and 2) recover coded image!
 
 
-1)
+1) Colorblindness Filters
 The human eye contains two types of photoreceptive (light sensitive) cells: rods and cones. Rods are responsible for vision in low light environments, such as at night, and cones are responsible for color vision. There are three types of cones, each responsible for a particular color, that is, red, green and blue. The red, green and blue cones all work together allowing you to see the whole spectrum of colors. For example, when the red and blue cones are stimulated in a certain way, you will see the color purple.
 
 The condition known as colorblindness typically manifests as a deficiency in one of these types of cones, for example, protanopia is a lack of sensitivity to red light, so the following is an example of the difference in viewing an image.
